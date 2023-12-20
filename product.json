@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Suade Comfy Chair",
+        "description": "Dengan desain yang menawan dan kenyamanan yang luar biasa, kursi ini adalah pilihan ideal untuk melengkapi ruang tamu atau area santai Anda. Dibuat dari bahan suede berkualitas tinggi, kursi ini tidak hanya memberikan tampilan yang elegan, tetapi juga memberikan sentuhan lembut dan nyaman saat Anda duduk. Permukaan suede memberikan nuansa mewah dan memberikan kehangatan pada setiap sentuhan.\n",
+        "image": "chair3",
+        "price": 1000.0
+    },
+    {
+        "title": "Blue Kingsize Bed",
+        "description": "Ranjang kingsize berwarna biru ini akan menjadi fokus utama dalam kamar tidur Anda. Didesain dengan penuh gaya, ranjang ini memberikan nuansa modern dan elegan sekaligus memberikan ruang tidur Anda sentuhan warna yang menenangkan. Dibuat dengan perhatian terhadap detail, ranjang ini memberikan kenyamanan istirahat yang tak tertandingi, memastikan tidur malam yang nyenyak setiap kali Anda beristirahat.\n\n",
+        "image": "bed1",
+        "price": 5000.0
+    },
+    {
+        "title": "Ergonomic Table",
+        "description": "Meja minimalis ini adalah pilihan yang sempurna untuk memberikan sentuhan modern pada ruang kerja atau ruang studi Anda. Dengan desain yang bersih dan sederhana, meja ini memadukan fungsionalitas dan estetika. Terbuat dari bahan berkualitas tinggi, meja ini menawarkan kekokohan yang dapat diandalkan untuk mendukung kegiatan sehari-hari Anda. Warna netral dan garis minimalis membuatnya mudah diintegrasikan dengan berbagai gaya dekorasi. \n\n",
+        "image": "table1",
+        "price": 700.0
+    }
+]
